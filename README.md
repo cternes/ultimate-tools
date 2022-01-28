@@ -4,7 +4,7 @@ Ultimate Tools
 * Git
 * Visual Studio 2019 Professional
   * ReSharper
-  * OzCode
+  * ~~OzCode
 * Visual Studio Code
   * Salesforce
   * Remote SSH
@@ -16,11 +16,9 @@ Ultimate Tools
   * XML Tools
 * Postman
 * Keepass
-* Chrome
-  * Chrome iPass
 * SQL Server Management Studio 17
 * Docker
-* Rancher Desktop
+* ~~Rancher Desktop
 * SourceTree
 * Windows Terminal
 * Ditto
