@@ -1,32 +1,68 @@
 Ultimate Tools
 ==
 
-* Git
+## Text
+
+* Notepad++
+  * Compare
+  * JSON Viewer
+  * Mime Tools
+  * XML Tools
+
+## Coding
+
 * Visual Studio 2019 Professional
   * ReSharper
   * ~~OzCode
 * Visual Studio Code
   * Salesforce
   * Remote SSH
-* Baretail
-* Notepad++
-  * Compare
-  * JSON Viewer
-  * Mime Tools
-  * XML Tools
-* Postman
-* Keepass
 * SQL Server Management Studio 17
-* Docker
-* ~~Rancher Desktop
-* SourceTree
-* Windows Terminal
-* Ditto
-* Slack
-* 7Zip
 * Node (nodist)
+* Dotnet 6 SDK
 * Salesforce Sfdx
 * Sparx Enterprise Architect
-* Dotnet 5 SDK
-* TreeSize
+* Docker
+* ~~Rancher Desktop
+* Postman
+ 
+## Source Control
+
+* Git
+* SourceTree
+
+## Logs
+
+* Baretail
+
+
+## Terminal/Command Line
+
+* Windows Terminal
+
+## Passwords
+
+* Keepass
+* 1Password
+
+## Communication
+
+* Slack
 * Zoom
+
+## Clipboard
+
+* Ditto
+
+## Screenshot
+
+* Greenshot
+
+## Backup
+
+* Carbonite
+
+## Misc
+
+* 7Zip
+* TreeSize
