@@ -35,6 +35,11 @@ Ultimate Tools
 
 * Baretail
 
+## UI/UX
+* Balsamiq
+
+## Mocking
+* https://github.com/typicode/json-server
 
 ## Terminal/Command Line
 
