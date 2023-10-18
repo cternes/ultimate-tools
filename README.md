@@ -18,7 +18,9 @@ Ultimate Tools
   * Salesforce
   * Remote SSH
 * SQL Server Management Studio 17
-* Node (nodist)
+* Node.js Manager
+  * nodist
+  * https://docs.volta.sh/
 * Dotnet 6 SDK
 * Salesforce Sfdx
 * Sparx Enterprise Architect
