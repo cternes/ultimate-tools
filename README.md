@@ -69,6 +69,10 @@ Ultimate Tools
 
 * Carbonite
 
+## Recovery
+
+* [CG Security Data Recovery](https://www.cgsecurity.org/wiki/TestDisk_Download)
+
 ## Misc
 
 * 7Zip
