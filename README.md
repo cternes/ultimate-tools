@@ -43,6 +43,9 @@ Ultimate Tools
 ## Mocking
 * https://github.com/typicode/json-server
 
+## Chaos Engineering
+* https://vaurien.readthedocs.io/en/1.8/
+
 ## Terminal/Command Line
 
 * Windows Terminal
