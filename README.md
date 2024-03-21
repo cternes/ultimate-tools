@@ -17,6 +17,10 @@ Ultimate Tools
 * Visual Studio Code
   * Salesforce
   * Remote SSH
+  * ESLint
+  * Prettier
+  * Markdown All in One
+  * Markdown PDF
 * SQL Server Management Studio 17
 * Node.js Manager
   * nodist
@@ -46,6 +50,10 @@ Ultimate Tools
 ## Chaos Engineering
 * https://vaurien.readthedocs.io/en/1.8/
 
+## Load Testing
+* [https://github.com/denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark)
+* [Autocannon](https://github.com/mcollina/autocannon?tab=readme-ov-file#install)
+
 ## Terminal/Command Line
 
 * Windows Terminal
@@ -59,10 +67,11 @@ Ultimate Tools
 
 * Slack
 * Zoom
+* [Miro](https://miro.com)
 
 ## Clipboard
 
-* Ditto
+* [Ditto](https://ditto-cp.sourceforge.io/)
 
 ## Screenshot
 
@@ -70,7 +79,11 @@ Ultimate Tools
 
 ## Backup
 
-* Carbonite
+* [Carbonite](https://www.carbonite.com)
+
+## Video
+
+* [VLC](https://www.videolan.org/vlc/download-windows.html)
 
 ## Recovery
 
