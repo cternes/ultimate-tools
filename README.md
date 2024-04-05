@@ -57,6 +57,7 @@ Ultimate Tools
 ## Terminal/Command Line
 
 * Windows Terminal
+  * in WSL use LiquidPrompt
 
 ## Passwords
 
